@@ -2233,4 +2233,7 @@ a:focus {
         margin: 5px 0;
         text-align: center;
     }
+        .copyright iframe{
+        width: 20rem;
+    }
 }
